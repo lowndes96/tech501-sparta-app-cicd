@@ -1,5 +1,5 @@
 # Use this repo with Jenkins
-## purpose of repo 
+## purpose of repo:s 
 - used to test our jenkins cicd pipeline that we are creating
 - line to test push
 - test dev branch push
