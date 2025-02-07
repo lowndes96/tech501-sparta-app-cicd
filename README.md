@@ -4,7 +4,7 @@
 - line to test push
 - test dev branch push
 - test of merge pipe!
-- test of git publisher
+- test of git publisher.
 ## About the app
 - "app" folder stores Sparta app
 - uses Node JS v20
